@@ -7,6 +7,7 @@ int main() {
     int a;
 
     printf("Hello SOA\n");
+    printf("New version 2.0\n");
 
     a = add(3, 4);
     printf("The result is %d \n", a);
