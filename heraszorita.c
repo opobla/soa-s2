@@ -2,6 +2,6 @@
 
 int heraszorita() {
 
-	printf("Heras");
+	printf("Heras Nº2\n");
 	return 0;
 }
