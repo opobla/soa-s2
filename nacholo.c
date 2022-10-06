@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int nacho(){
-  printf("hello i´m nacho");
+  printf("the new nacho\n");
   return 0;
 }
