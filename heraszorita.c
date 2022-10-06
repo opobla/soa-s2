@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int heraszorita() {
 
 	printf("Heras");
 	return 0;

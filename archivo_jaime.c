@@ -5,6 +5,3 @@ int funcion_jaime(void )
 	return 0;
 }
 
-void main(){
-	funcion_jaime();
-}

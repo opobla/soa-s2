@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int cesarmartin(){
 	printf("Hola profe ponme un punto extra, porfa c:\n");
 		return 0;
 }

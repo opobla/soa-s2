@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int francisco() {
 	printf("Francisco Gonzalez Velasco");
+    return (0);
 }

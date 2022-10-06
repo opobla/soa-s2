@@ -1,6 +1,6 @@
-#include <stdio>
+#include <stdio.h>
 
-int main() {
+int mario() {
         printf("Mario Fernandez Rueda");
         return 0;
 }

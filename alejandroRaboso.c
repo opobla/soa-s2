@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main(){
+int alejandro(){
 
 	printf("Hola soy Raboso");
+    return (0);
 
 }
