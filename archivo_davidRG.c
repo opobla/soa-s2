@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main () {
+int davidRuiz () {
 
-	printf("David Ruiz González\n");
+	printf("Lo siento profe por el Commit, estoy aprendiendo a usar GitHub. :( \n");
 	return 0;
 }
 
