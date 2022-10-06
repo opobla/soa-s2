@@ -3,7 +3,7 @@
 
 int elBicho(){
         for (int i = 0; i<7; i++){
-                printf("Hehehe...siuuuuuuuu")
+                printf("Hehehe...siuuuuuuuu\n");
         }
         return (0);
 }
