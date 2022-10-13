@@ -15,6 +15,7 @@ int mario() ;
 int nacho();
 int sergio();
 int simone() ;
+int impresora();
 
 int main() {
     int a;
@@ -40,7 +41,8 @@ int main() {
     mario(); 
     nacho();
     sergio();
-    simone(); 
+    simone();
+   impresora(); 
 
     return(0);
 }
