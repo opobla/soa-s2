@@ -21,7 +21,7 @@ int main() {
     int a;
 
     printf("Hello SOA\n");
-    printf("New version 2.0\n");
+    printf("New version 3.0\n");
     printf("---------------------------------\n");
 
     a = add(3, 4);
