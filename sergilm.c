@@ -10,7 +10,7 @@ int elBicho(){
 
 
 int sergio(){
-    printf("Hola soy Sergio ;)");
+    printf("Hola soy Sergio ;)\n");
     elBicho();
     return (0);
 }
