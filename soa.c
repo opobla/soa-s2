@@ -4,24 +4,28 @@
 #include "add.h"
 
 
-int francisco() ;
+int francisco();
 int alejandro();
+int Alexander();
+int davidRuiz();
+int funcAdri();
 int funcion_jaime(void);
 int cesarmartin();
-int cristianoronaldo ();
-int edug() ;
-int heraszorita() ;
-int mario() ;
+int cristianoronaldo();
+int edug();
+int heraszorita();
+int mario();
 int nacho();
 int sergio();
-int simone() ;
+int simone();
+int valeria();
 int impresora();
 
 int main() {
     int a;
 
     printf("Hello SOA\n");
-    printf("New version 2.0\n");
+    printf("New version 3.0\n");
     printf("---------------------------------\n");
 
     a = add(3, 4);
@@ -33,6 +37,9 @@ int main() {
 
     francisco(); 
     alejandro();
+    Alexander();
+    davidRuiz();
+    funcAdri();
     funcion_jaime();
     cesarmartin();
     cristianoronaldo ();
@@ -42,7 +49,8 @@ int main() {
     nacho();
     sergio();
     simone();
-   impresora(); 
+    valeria();
+    impresora(); 
 
     return(0);
 }
