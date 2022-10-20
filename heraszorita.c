@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 int heraszorita() {
 
-	printf("Heras nº2\n");
+	system("cat pruebaHeras.txt");
 	return 0;
 }
